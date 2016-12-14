@@ -1,0 +1,9 @@
+# Mystery Basket Generator
+This lightweight React-based application allows you to generate plausible ingredient selections for a "Chopped"-inspired cooking competition.
+##Features 
+*383 episodes worth of ingredients (that's over 1500 unique individual ingredients).
+*Logic which guarantees at least 1 protein in the appetizer and entree course
+*An insane amount of ingredient combinations -- the total amount of possible combinations is over ~2.592×10^29 (259 octillion combinations)
+*Performant -- each course's ingredients generate near instantaneously
+
+Disclaimer: This software is in no way affiliated with, authorized, maintained, sponsored or endorsed by the Television Food Network
