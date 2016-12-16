@@ -1,3 +1,5 @@
+import {appSideI, appProteinI, entSideI, entProteinI, desIpart1, desIpart2} from "ingredients";
+
 var Ingredient = React.createClass({
     render: function () {
       var className = "ingredient";
