@@ -1,0 +1,51 @@
+.container-fluid {
+  max-width: 800px;
+}
+.container-fluid h1 {
+  margin-bottom: 15px;
+  font-size: 250%;
+  font-weight: bold;
+  color: #FF3737;
+}
+.ingredient { border: 5px solid #ccc; 
+  float: left; 
+  font: 700 24px HelveticaNeue, Helvetica, Arial; 
+  margin: 20px; 
+  padding: 20px; 
+}
+.ingredient:hover {
+  background-color: #000;
+}
+.outer a {
+  color: #FF3737;
+}
+.outer:hover a {
+  color: white;
+}
+.ingredient a {
+  text-decoration: none;
+}
+.container-fluid {
+  text-align:center;
+}
+.lowerHeader h2 {
+  clear:both;
+}
+.lowerHeader {
+  max-height: 100px;
+}
+.ingredientList {
+  overflow: hidden;
+  margin: 0 auto;
+} 
+.footer {
+  margin: 20px;
+}
+hr {
+  width: 80%;
+  color:gray;
+  border-bottom: 1px solid;
+}
+.glyphicon {
+  color: red;
+}
